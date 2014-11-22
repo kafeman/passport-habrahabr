@@ -68,4 +68,5 @@ app.get('/auth/habrahabr/callback',
 [The MIT License](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2011-2014 Jared Hanson http://jaredhanson.net/
+
 Copyright (c) 2014 kafeman http://habrahabr.ru/users/kafeman/
